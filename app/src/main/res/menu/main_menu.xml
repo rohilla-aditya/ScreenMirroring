@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><menu xmlns:android="http://schemas.android.com/apk/res/android"    xmlns:app="http://schemas.android.com/apk/res-auto"    xmlns:tools="http://schemas.android.com/tools"    tools:context=".MainActivity"    android:layout_height="wrap_content"    android:layout_width="wrap_content">
+
+    <item        android:id="@+id/action_fav"        android:orderInCategory="300"        android:title="cast"        android:icon="@drawable/icon"        app:showAsAction="always"        ></item>
+</menu>
